@@ -1,1 +1,3 @@
+Project Objective: The project aim is to analyse and predict whether the patient is diabetic or not. This dataset was originally from the National Institute of Diabetes and Digestive Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset.
 
+The tool I used for this project is Python for performing exploratory data analysis (EDA) followed by creating models for prediction. The decision tree, random forest and gradient boost algorithms are used for prediction and by performing the gird search finally, the Random forest model has given the best accuracy score and f1 score on the test data.
